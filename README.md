@@ -4,7 +4,7 @@ Desclaimer:
 This is the second project of the Machine Learning course from EPFL.
 You can clone and use this work.
 This project was a short one so it might have some mistakes or can be incomplete.
-Authors: 33% Jean Gschwind, 33% Tristan Besson,33% Sebastian Savidan
+Authors: Jean Gschwind, Tristan Besson, Sebastian Savidan
 
 ## Files Description
 _run.py_
